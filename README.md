@@ -49,7 +49,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <p align="center">
     <a href="https://github.com/Ramlala-Yadav-Git/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ramlala Yadav's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=RamlalaYadav&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ramlala Yadav's streak" src="https://github-readme-stats.vercel.app/api?username=Ramlala-Yadav-Git&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
     </a>
 </p>
 

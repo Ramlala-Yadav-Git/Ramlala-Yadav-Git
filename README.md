@@ -21,7 +21,7 @@ and DS & Algo.</h3>
 
 🥅 *2021 Goals :* Learning new things and contribute more  
 
- 📫 You can reach me at [chat](mailto:rrolls0616@gmail.com) 
+ 📫 You can reach me at [chat](mailto:ramlalayadav1997@gmail.com) 
 
 
 ## 🚀 Languages and Tools:
@@ -47,19 +47,19 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/RamlalaYadav" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
-<p align="center">
+<!-- <p align="center">
     <a href="https://github.com/Ramlala-Yadav-Git/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ramlala Yadav's streak" src="https://github-readme-stats.vercel.app/api?username=Ramlala-Yadav-Git&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
     </a>
-</p>
+</p> -->
 
  
   <p align="center">
-    <a href="https://github.com/Ramlala-Yadav-Git/github-readme-stats"><img alt="Ramlala Yadav's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RamlalaYadav&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/Ramlala-Yadav-Git/github-readme-stats"><img alt="Ramlala Yadav's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ramlala-Yadav-Git&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
     </p>
      
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramlalayadav&theme=react&hide_border=true&bg_color=0D1117" height="260px" width="33.25%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramlala-Yadav-Git&theme=react&hide_border=true&bg_color=0D1117" height="260px" width="33.25%"/>
     </p>
   
   <br/>
@@ -76,13 +76,15 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/ramlala-yadav"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+ <a href = "https://twitter.com/ramlala_yadav"><img width="50px" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png"/></a>
 <!-- <a href = ""><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a> -->
+<p>Call Me: 7024426233, 8839610384</p>
 
 </p>
 
 ## ❤ Views and Followers
 <a href="https://github.com/Ramlala-Yadav-Git/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Ramlala-Yadav">
+    <img src="https://komarev.com/ghpvc/?username=Ramlala-Yadav-Git">
 </a>
 <a href="https://github.com/Ramlala-Yadav-Git?tab=followers"><img src="https://img.shields.io/github/followers/Ramlala-Yadav-Git?label=Followers&style=social" alt="GitHub Badge"></a>
 

@@ -12,8 +12,10 @@ and DS & Algo.</h3>
 </p>
 
 ## 🙋‍♂️ About Me
-
-🌱 *I’m currently learning :* Full Stack Web Development
+<!-- <p align= "center">
+<img width="50px" src="https://pbs.twimg.com/profile_images/1390132006516822016/ZILrvvTo_400x400.jpg" alt="img"/>
+</p> -->
+🌱 I’m currently learning :  Full Stack Web Development
 
 🤝 I’m looking for help with OpenSource Contributions. Ping me, if you can guide me. Would be grateful.
 

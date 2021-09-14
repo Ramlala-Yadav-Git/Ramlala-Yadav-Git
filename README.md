@@ -76,7 +76,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 ## Connect with me:
 <div display="flex" justify-content="center" align-items="center">
- <a href = "https://ramlala-portfolio.herokuapp.com/" target="blank"><img width="44px" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/portfolio-1603075-1359338.png"> </a>
+ <a href = "https://ramlala-yadav-portfolio.netlify.app/" target="blank"><img width="44px" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/portfolio-1603075-1359338.png"> </a>
 <a href = "https://www.linkedin.com/in/ramlala-yadav"><img width="55px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" target="blank"></a>
  <a href = "https://twitter.com/ramlala_yadav"><img width="50px" src="https://www.freeiconspng.com/thumbs/logo-twitter-png/t-logo-png-twitter-logo-18.png" target="blank"></a>
 <p>Call Me: 7024426233, 8839610384</p>

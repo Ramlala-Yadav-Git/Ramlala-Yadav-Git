@@ -15,7 +15,7 @@ and DS & Algo.</h3>
 </p>
 
 ## 🙋‍♂️ About Me
-🌱 I’m currently learning :  Full Stack Web Development
+🌱 I’m currently Working as :  Software Developer.
 
 🤝 I’m looking for help with OpenSource Contributions. Ping me, if you can guide me. Would be grateful.
 
